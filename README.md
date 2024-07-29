@@ -4,7 +4,6 @@
 
 Установите mitmproxy, если он еще не установлен:
 
-    bash
     
 ```
 pip install mitmproxy
